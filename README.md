@@ -1,1 +1,1 @@
-# Michal-Lab
+# Głębokie_Uczenie
